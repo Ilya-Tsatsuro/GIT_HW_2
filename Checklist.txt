@@ -1,0 +1,9 @@
+id
+Titlle
+Inputs
+ER
+Status
+Priority	
+Bug link
+Attachment	
+Comment
